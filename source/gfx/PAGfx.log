@@ -1,0 +1,23 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+2 sprites :
+  buttons : 256colors, 32x64, Pal : buttons_Pal, -> buttons_Sprite
+  bigbutton : 256colors, 64x128, Pal : bigbutton_Pal, -> bigbutton_Sprite
+
+2 backgrounds :
+  mandala : 8bit, 256x192, Pal : mandala_Pal, -> mandala_Bitmap
+  lotus : 8bit, 256x192, Pal : lotus_Pal, -> lotus_Bitmap
+
+4 palettes :
+  buttons_Pal, 101 colors
+  bigbutton_Pal, 143 colors
+  mandala_Pal, 233 colors
+  lotus_Pal, 178 colors
+
+Converted in 2 minutes 56 seconds
+
+Finished !

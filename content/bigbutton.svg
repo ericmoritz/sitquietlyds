@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="128"
+   id="svg4652"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="bigbutton.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/eric/Desktop/Projects/homebrew/projects/nds/pa_meditation_timer/source/gfx/bigbutton.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4654">
+    <linearGradient
+       id="linearGradient3232">
+      <stop
+         id="stop3234"
+         offset="0"
+         style="stop-color:#3d1646;stop-opacity:1;" />
+      <stop
+         id="stop3236"
+         offset="1"
+         style="stop-color:#41164a;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3232"
+       id="radialGradient3230"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.250596,-1.4298175e-7,1.8953212e-7,2.2997328,-19.857164,43.060545)"
+       cx="15.953125"
+       cy="16.0625"
+       fx="15.953125"
+       fy="16.0625"
+       r="15.953125" />
+    <linearGradient
+       id="linearGradient3180">
+      <stop
+         style="stop-color:#822f95;stop-opacity:1;"
+         offset="0"
+         id="stop3182" />
+      <stop
+         style="stop-color:#61226e;stop-opacity:1;"
+         offset="1"
+         id="stop3184" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3180"
+       id="radialGradient3224"
+       cx="15.953125"
+       cy="16.0625"
+       fx="15.953125"
+       fy="16.0625"
+       r="15.953125"
+       gradientTransform="matrix(3.250596,-1.4298175e-7,1.8953211e-7,2.2997329,-19.857165,-20.939455)"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4660" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.239521"
+     inkscape:cx="-20.433456"
+     inkscape:cy="66.480715"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1092"
+     inkscape:window-height="723"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata4657">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:none"
+       id="rect3165"
+       width="64"
+       height="128"
+       x="0"
+       y="0" />
+    <path
+       style="fill:url(#radialGradient3224);fill-opacity:1;stroke:none"
+       d="M 10.280117,0 C 4.5832387,0 6.1175e-08,3.342491 6.1175e-08,7.497143 L 6.1175e-08,24.502857 C 6.1175e-08,28.657509 4.5832387,32 10.280117,32 L 53.719882,32 C 59.416761,32 64,28.657509 64,24.502857 L 64,7.497143 C 64,3.342491 59.416761,0 53.719882,0 L 10.280117,0 z"
+       id="rect3163" />
+    <path
+       id="path3228"
+       d="M 10.280119,64 C 4.5832395,64 4.72e-07,67.34249 4.72e-07,71.49714 L 4.72e-07,88.50286 C 4.72e-07,92.65751 4.5832395,96 10.280119,96 L 53.719882,96 C 59.416761,96 64,92.65751 64,88.50286 L 64,71.49714 C 64,67.34249 59.416761,64 53.719882,64 L 10.280119,64 z"
+       style="fill:url(#radialGradient3230);fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="12.105469"
+       y="21.824219"
+       id="text4782"><tspan
+         sodipodi:role="line"
+         id="tspan4784"
+         x="12.105469"
+         y="21.824219">Start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="13.722656"
+       y="84.273399"
+       id="text5295"><tspan
+         sodipodi:role="line"
+         id="tspan5297"
+         x="13.722656"
+         y="84.273399">Stop</tspan></text>
+  </g>
+</svg>
